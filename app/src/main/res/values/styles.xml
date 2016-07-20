@@ -1,0 +1,19 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="StandardButton">
+        <item name="colorButtonNormal">@color/standard_button_background</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="CapstoneButton">
+        <item name="colorButtonNormal">@color/capstone_button_background</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+</resources>

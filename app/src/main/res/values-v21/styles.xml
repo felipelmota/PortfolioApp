@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="StandardButton">
+        <item name="android:colorButtonNormal">@color/standard_button_background</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="CapstoneButton">
+        <item name="android:colorButtonNormal">@color/capstone_button_background</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+</resources>
